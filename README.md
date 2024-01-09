@@ -9,5 +9,10 @@ To run the code, run the following commands:
 
 ```bash
 npm install
-npm run start
+npm start
 ```
+## Screenshots
+
+![screenshot01](./screenshots/01.jpeg).
+![screenshot01](./screenshots/04.jpeg).
+![screenshot01](./screenshots/03.jpeg).
